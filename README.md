@@ -1,6 +1,6 @@
 [:arrow_left: Retour vers le portfolio](https://github.com/ThibaultLanthiez/Portfolio)
 
-# Intelligence artificielle pour des robots pompiers en programmation orienté objet
+# Intelligence artificielle pour des robots pompiers
 
 Le but de ce projet est de programmer une intelligence artificielle pour des robots pompiers devant éteindre des incendies sur une carte. Cette carte est constituée de divers éléments comme des points d'eau (pour que les robots rechargent leur réservoir), de la forêt et bien sûr de zones d'incendie. 
 
